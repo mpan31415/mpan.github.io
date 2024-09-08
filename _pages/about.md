@@ -18,19 +18,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a MSc Student in Robotics, Systems and Control at **ETH Zürich**, tutored by [Prof. Robert Riener](https://sms.hest.ethz.ch/the-group/team/robert-riener.html).
+I am currently a Masters student in Robotics, Systems and Control at **ETH Zürich**, tutored by [Prof. Robert Riener](https://sms.hest.ethz.ch/the-group/team/robert-riener.html).
 
-I am interested in applying AI and machine learning methods to the design and control of assistive robots and human-robot shared autonomy. I conduct research in the Sensory-Motor Systems Lab and Robotics Systems Lab at ETH as part of my Masters studies.
+I am interested in the design and control of adaptive shared autonomy systems in human-robot interaction. I plan to conduct research across the Sensory-Motor Systems Lab and the Robotics Systems Lab at ETH as part of my Masters studies.
 
-I graduated from The University of Melbourne, Australia with a Bachelor of Science degree in Mechatronics Engineering (First-class Honors). I completed my Bachelor's thesis project under the supervision of [Dr. Jonathan Eden](https://findanexpert.unimelb.edu.au/profile/453579-jonathan-eden), [Dr. Wafa Johal](https://findanexpert.unimelb.edu.au/profile/892823-wafa-johal-benkaouar-johal) and [Prof. Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo). I was a research assistant in the Human-Robot Interaction group at The University of Melbourne working on shared-autonomy and cognitive load. I was also previously a research assistant in the Robotics group at Monash University working on Integrated Grasp and Trajectory Optimization for robotic arms.
+I graduated from The University of Melbourne, Australia with a Bachelor of Science degree in Mechatronics Engineering (First-class Honors). I completed my Bachelor's thesis project under the supervision of [Dr. Jonathan Eden](https://findanexpert.unimelb.edu.au/profile/453579-jonathan-eden), [Dr. Wafa Johal](https://findanexpert.unimelb.edu.au/profile/892823-wafa-johal-benkaouar-johal) and [Prof. Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo). I was a research assistant in the Human-Robot Interaction group at The University of Melbourne working on shared-autonomy and cognitive load. I was also previously a research assistant in the Robotics group at Monash University working on Integrated Grasp and Trajectory Optimization for robotic arms, supervised by [Dr. Akansel Cosgun](https://www.monash.edu/engineering/akanselcosgun) and [Dr. James Saunderson](https://www.monash.edu/engineering/jamessaunderson). 
 
-If you are interested in any form of **academic collaboration**, please feel free to email me at [michael.pan31415@gmail.com](mailto:michael.pan31415@gmail.com). 
+If you are interested in **academic collaboration**, please feel free to email me at [jiapan@student.ethz.ch](mailto:jiapan@student.ethz.ch). 
 
 
 
 # 🔥 News
 
-- *2024.09*: Began my Masters in Robotics, Systems and Control at ETH Zurich
+- *2024.09*: Began my Masters studies at ETH Zürich
 - *2024.07*: 🎉 A paper accepted by IEEE Access
 - *2024.05*: 🎉 A paper accepted by RA-L and to be presented at IROS 2024
 - *2024.03*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
@@ -60,11 +60,11 @@ If you are interested in any form of **academic collaboration**, please feel fre
 
 # 📖 Education
 
-- *2024.09 - Present*, MSc in Robotics, Systems and Control, ETH Zürich, Switzerland
-- *2021.03 - 2023.12*, BSc in Mechatronics Engineering, The University of Melbourne, Australia
+- *2024.09 - Present*, MSc. Robotics, Systems and Control, ETH Zürich, Switzerland
+- *2021.03 - 2023.12*, BSc. Mechatronics Engineering, The University of Melbourne, Australia
 
 
 
-# 💻 Internships
+<!-- # 💻 Internships
 
-- *2025.06 - 2025.12*, Coming Soon...
+- *2025.06 - 2025.12*, Coming Soon... -->

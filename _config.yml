@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Michael (Jiahe) Pan"
-description              : "MSc Student in Robotics, Systems and Control at ETH Zürich | Assistive Robotics | Shared Autonomy"
+title                    : "Jiahe Pan (Michael)"
+description              : "MSc. Student in Robotics, Systems and Control at ETH Zürich | Assistive Robotics | Shared Autonomy"
 repository               : "mpan31415/mpan31415.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Michael (Jiahe) Pan"
+  name             : "Jiahe Pan (Michael)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "ETH Zürich"
   location         : "Zürich, Switzerland"
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=ngZ6XuYAAAAJ"
   email            : "michael.pan31415@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jiahe-Pan"
   uri              :
   bitbucket        :
   codepen          :
