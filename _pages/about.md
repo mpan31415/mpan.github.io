@@ -24,8 +24,7 @@ I am interested in the design and control of adaptive shared autonomy systems fo
 
 I graduated from The University of Melbourne, Australia with a Bachelor of Science degree in Mechatronics Engineering (First-class Honors). I completed my Bachelor's thesis project under the supervision of [Dr. Jonathan Eden](https://findanexpert.unimelb.edu.au/profile/453579-jonathan-eden), [Dr. Wafa Johal](https://findanexpert.unimelb.edu.au/profile/892823-wafa-johal-benkaouar-johal) and [Prof. Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo). I was a research assistant in the Human-Robot Interaction group at The University of Melbourne working on shared-autonomy and cognitive load. I was also previously a research assistant in the Robotics group at Monash University working on Integrated Grasp and Trajectory Optimization for robotic arms, supervised by [Dr. Akansel Cosgun](https://www.monash.edu/engineering/akanselcosgun) and [Dr. James Saunderson](https://www.monash.edu/engineering/jamessaunderson). 
 
-If you are interested in **academic collaboration**, please feel free to email me at [jiapan@student.ethz.ch](mailto:michael.pan31415@gmail.com). 
-<!-- (mailto:jiapan@student.ethz.ch) -->
+If you are interested in **academic collaboration**, please feel free to email me at [michael.pan31415@gmail.com](mailto:michael.pan31415@gmail.com).
 
 
 # 🔥 News
@@ -41,10 +40,10 @@ If you are interested in **academic collaboration**, please feel free to email m
 
 # 📝 Publications 
 
-- ``IEEE Access`` [A Review of Differentiable Simulators](https://ieeexplore.ieee.org/abstract/document/10589638), Rhys Newbury, Jack Collins, Kerry He, **Jiahe Pan**, Ingmar Posner, David Howard, Akansel Cosgun | [Project Site](https://rhys-newbury.github.io/projects/DiffSim/)
-- ``CHI 2024`` [FaceVis: Exploring a Robot's Face for Affective Visualisation Design](https://dl.acm.org/doi/full/10.1145/3613905.3650910), Sarah Schömbs, **Jiahe Pan**, Yan Zhang, Jorge Goncalves and Wafa Johal | [Project Site](https://sites.google.com/view/facevis/home)
-- ``RA-L 2024`` [Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking](https://ieeexplore.ieee.org/abstract/document/10517390), **Jiahe Pan**, Jonathan Eden, Denny Oetomo and Wafa Johal (presentation at ``IROS 2024``) | [Project Site](https://sites.google.com/view/auto-cl-trust/home)
-- `HORA 2023` [Variable Grasp Pose and Commitment for Trajectory Optimization](https://ieeexplore.ieee.org/abstract/document/10155773), **Jiahe Pan**, Kerry He, Jia Ming Ong and Akansel Cosgun | [PDF](https://mpan31415.github.io/papers/2023/TrajOpt.pdf)
+- ``IEEE Access`` [A Review of Differentiable Simulators](https://ieeexplore.ieee.org/abstract/document/10589638), Rhys Newbury, Jack Collins, Kerry He, **Jiahe Pan**, Ingmar Posner, David Howard, Akansel Cosgun | [Project Site](https://rhys-newbury.github.io/projects/DiffSim/) | [PDF](https://mpan31415.github.io/papers/2024/IEEEAccess24_DiffSim.pdf)
+- ``CHI 2024`` [FaceVis: Exploring a Robot's Face for Affective Visualisation Design](https://dl.acm.org/doi/full/10.1145/3613905.3650910), Sarah Schömbs, **Jiahe Pan**, Yan Zhang, Jorge Goncalves and Wafa Johal | [Project Site](https://sites.google.com/view/facevis/home) | [PDF](https://mpan31415.github.io/papers/2024/CHI24_LBR_FaceVis.pdf)
+- ``RA-L 2024`` [Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking](https://ieeexplore.ieee.org/abstract/document/10517390), **Jiahe Pan**, Jonathan Eden, Denny Oetomo and Wafa Johal (presentation at ``IROS 2024``) | [Project Site](https://sites.google.com/view/auto-cl-trust/home) | [PDF](https://mpan31415.github.io/papers/2024/RAL24_ClTrustAuto.pdf)
+- `HORA 2023` [Variable Grasp Pose and Commitment for Trajectory Optimization](https://ieeexplore.ieee.org/abstract/document/10155773), **Jiahe Pan**, Kerry He, Jia Ming Ong and Akansel Cosgun | [PDF](https://mpan31415.github.io/papers/2023/HORA23_TrajOpt.pdf)
 
 
 
