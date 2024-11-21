@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiahe Pan (Michael)"
-description              : "MSc. Student in Robotics, Systems and Control at ETH Zürich | Assistive Robotics | Shared Autonomy"
+title                    : "Jiahe (Michael) Pan"
+description              : "Masters Student in Robotics, Systems and Control at ETH Zürich | Robotics | Shared Control | Reinforcement Learning"
 repository               : "mpan31415/mpan31415.github.io"
 google_scholar_stats_use_cdn : false
 

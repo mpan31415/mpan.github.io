@@ -20,23 +20,24 @@ redirect_from:
 
 I am a Masters student in Robotics, Systems and Control at **ETH Zürich**, tutored by [Prof. Robert Riener](https://sms.hest.ethz.ch/the-group/team/robert-riener.html).
 
-I am interested in the design and control of adaptive shared autonomy systems for human-robot interaction. I plan to conduct research across the [Sensory-Motor Systems Lab](https://sms.hest.ethz.ch/) and the [Robotics Systems Lab](https://rsl.ethz.ch/) at ETH as part of my Masters studies.
+I am interested in enabling robots to efficiently and robustly interact with people and objects in the world through technical methods from the areas of control and learning. I plan to conduct research across the [Sensory-Motor Systems Lab](https://sms.hest.ethz.ch/) and the [Robotics Systems Lab](https://rsl.ethz.ch/) at ETH as part of my Masters studies.
 
-I graduated from **The University of Melbourne**, Australia with a Bachelor of Science degree in Mechatronics Engineering (First-class Honors). I completed my Bachelor's thesis project under the supervision of [Dr. Jonathan Eden](https://findanexpert.unimelb.edu.au/profile/453579-jonathan-eden), [Dr. Wafa Johal](https://findanexpert.unimelb.edu.au/profile/892823-wafa-johal-benkaouar-johal) and [Prof. Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo), and continued working as a research assistant in the Human-Robot Interaction group focusing on shared-autonomy and cognitive load. I was also previously a research assistant in the Robotics group at **Monash University** working on Integrated Grasp and Trajectory Optimization for robotic arms, supervised by [Dr. Akansel Cosgun](https://www.monash.edu/engineering/akanselcosgun) and [Dr. James Saunderson](https://www.monash.edu/engineering/jamessaunderson). 
+I graduated from **The University of Melbourne**, Australia with a Bachelor of Science degree in Mechatronics Engineering (First-class Honors). I completed my Bachelor's thesis project under the supervision of [Dr. Jonathan Eden](https://findanexpert.unimelb.edu.au/profile/453579-jonathan-eden), [Dr. Wafa Johal](https://findanexpert.unimelb.edu.au/profile/892823-wafa-johal-benkaouar-johal) and [Prof. Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo), and continued working as a research assistant in the Human-Robot Interaction group focusing on human-robot shared control and teleoperation. I was also previously a research assistant in the Robotics group at **Monash University** working on integrated grasp and trajectory optimization for robotic arms, supervised by [Dr. Akansel Cosgun](https://www.monash.edu/engineering/akanselcosgun) and [Dr. James Saunderson](https://www.monash.edu/engineering/jamessaunderson). 
 
 If you are interested in **academic collaboration**, please email me at [michael.pan31415@gmail.com](mailto:michael.pan31415@gmail.com).
 
 
 # 🔥 News
 
-- *2024.10*: Our RA-L paper presented at IROS 2024
-- *2024.09*: Began my Masters in Robotics, Systems and Control at ETH Zürich
-- *2024.07*: 🎉 A paper accepted by IEEE Access
-- *2024.05*: 🎉 A paper accepted by RA-L
+- *2024.11*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
+- *2024.10*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
+- *2024.09*: Began my Masters studies in Robotics, Systems and Control at ETH Zürich
+- *2024.07*: 🎉 Our survey **"A Review of Differentiable Simulators"** was accepted by IEEE Access
+- *2024.05*: 🎉 Our work **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was accepted by IEEE Robotics and Automation Letters (RA-L)
 - *2024.03*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
-- *2024.02*: 🎉 A late-breaking paper accepted by CHI 2023
+- *2024.02*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted as a late-breaking paper at CHI 2023
 - *2023.12*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
-- *2023.06*: 🎉 A paper accepted by HORA 2023
+- *2023.06*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted as a full paper at HORA 2023
 
 
 
