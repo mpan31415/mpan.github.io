@@ -29,6 +29,7 @@ If you are interested in **academic collaboration**, please email me at [michael
 
 # 🔥 News
 
+- *2024.12*: Our work **Using Fitts' Law to Benchmark Assisted Human-Robot Performance** was accepted as a full paper at HRI 2024
 - *2024.11*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
 - *2024.10*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
 - *2024.09*: Began my Masters studies in Robotics, Systems and Control at ETH Zürich
@@ -43,6 +44,7 @@ If you are interested in **academic collaboration**, please email me at [michael
 
 # 📝 Publications 
 
+- ``HRI 2025`` [Using Fitts' Law to Benchmark Assisted Human-Robot Performance](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf), **Jiahe Pan**, Jonathan Eden, Denny Oetomo and Wafa Johal | [Project Site](https://sites.google.com/view/autonomyfitts/home) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
 - ``IEEE Access`` [A Review of Differentiable Simulators](https://ieeexplore.ieee.org/abstract/document/10589638), Rhys Newbury, Jack Collins, Kerry He, **Jiahe Pan**, Ingmar Posner, David Howard, Akansel Cosgun | [Project Site](https://rhys-newbury.github.io/projects/DiffSim/) | [PDF](https://mpan31415.github.io/papers/2024/IEEEAccess24_DiffSim.pdf)
 - ``CHI 2024`` [FaceVis: Exploring a Robot's Face for Affective Visualisation Design](https://dl.acm.org/doi/full/10.1145/3613905.3650910), Sarah Schömbs, **Jiahe Pan**, Yan Zhang, Jorge Goncalves and Wafa Johal | [Project Site](https://sites.google.com/view/facevis/home) | [PDF](https://mpan31415.github.io/papers/2024/CHI24_LBR_FaceVis.pdf)
 - ``RA-L 2024`` [Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking](https://ieeexplore.ieee.org/abstract/document/10517390), **Jiahe Pan**, Jonathan Eden, Denny Oetomo and Wafa Johal (presentation at ``IROS 2024``) | [Project Site](https://sites.google.com/view/auto-cl-trust/home) | [PDF](https://mpan31415.github.io/papers/2024/RAL24_CLTrustAuto.pdf)
