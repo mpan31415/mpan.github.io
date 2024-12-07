@@ -24,21 +24,21 @@ I am interested in enabling robots to efficiently and robustly interact with peo
 
 I graduated from **The University of Melbourne**, Australia with a Bachelor of Science degree in Mechatronics Engineering (First-class Honors). I completed my Bachelor's thesis project under the supervision of [Dr. Jonathan Eden](https://findanexpert.unimelb.edu.au/profile/453579-jonathan-eden), [Dr. Wafa Johal](https://findanexpert.unimelb.edu.au/profile/892823-wafa-johal-benkaouar-johal) and [Prof. Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo), and continued working as a research assistant in the Human-Robot Interaction group focusing on human-robot shared control and teleoperation. I was also previously a research assistant in the Robotics group at **Monash University** working on integrated grasp and trajectory optimization for robotic arms, supervised by [Dr. Akansel Cosgun](https://www.monash.edu/engineering/akanselcosgun) and [Dr. James Saunderson](https://www.monash.edu/engineering/jamessaunderson). 
 
-If you are interested in **academic collaboration**, please email me at [michael.pan31415@gmail.com](mailto:michael.pan31415@gmail.com).
+If you are interested in **academic collaboration**, feel free to email me at [michael.pan31415@gmail.com](mailto:michael.pan31415@gmail.com).
 
 
 # 🔥 News
 
-- *2024 Dec*: Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted as a full paper at HRI 2025
-- *2024 Nov*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
-- *2024 Oct*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
-- *2024 Sep*: Began my Masters studies in Robotics, Systems and Control at ETH Zürich
-- *2024 Jul*: 🎉 Our work **"A Review of Differentiable Simulators"** was accepted by IEEE Access
-- *2024 May*: 🎉 Our work **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was accepted by IEEE Robotics and Automation Letters (RA-L)
-- *2024 Mar*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Office Assistant Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
-- *2024 Feb*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted as a late-breaking paper at CHI 2023
-- *2023 Dec*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
-- *2023 Jun*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted as a full paper at HORA 2023
+- *Dec 2024*: Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted as a full paper at HRI 2025
+- *Nov 2024*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
+- *Oct 2024*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
+- *Sep 2024*: Began my Masters studies in Robotics, Systems and Control at ETH Zürich
+- *Jul 2024*: 🎉 Our work **"A Review of Differentiable Simulators"** was accepted by IEEE Access
+- *May 2024*: 🎉 Our work **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was accepted by IEEE Robotics and Automation Letters (RA-L)
+- *Mar 2024*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Office Assistant Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
+- *Feb 2024*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted as a late-breaking paper at CHI 2023
+- *Dec 2023*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
+- *Jun 2023*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted as a full paper at HORA 2023
 
 
 # 📝 Publications 
@@ -53,18 +53,18 @@ If you are interested in **academic collaboration**, please email me at [michael
 
 # 🎖 Honors and Awards
 
-- *2024 May*: The University of Melbourne [Dean's Honours List](https://science.unimelb.edu.au/students/scholarships/deans-honours-list-2) (Top 3%)
-- *2024 Mar*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
-- *2022 Dec*: Monash Summer Research Scholarship
-- *2021 Jan*: Graduate Degree Package (Master of Engieering, The University of Melbourne)
-- *2019 May*: TP Murray Engineering Scholarship
+- *May 2024*: The University of Melbourne [Dean's Honours List](https://science.unimelb.edu.au/students/scholarships/deans-honours-list-2) (Top 3%)
+- *Mar 2024*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
+- *Dec 2022*: Monash Summer Research Scholarship
+- *Jan 2021*: Graduate Degree Scholarship Package (Master of Engieering, The University of Melbourne)
+- *May 2019*: TP Murray Engineering Scholarship
 
 
 
 # 📖 Education
 
-- *2024 Sep - Present*: MSc. Robotics, Systems and Control, ETH Zürich, Switzerland
-- *2021 Mar - 2023 Dec*: BSc. Mechatronics Engineering, The University of Melbourne, Australia
+- *Sep 2024 - Present*: MSc. Robotics, Systems and Control, ETH Zürich, Switzerland
+- *Mar 2021 - Dec 2023*: BSc. Mechatronics Engineering, The University of Melbourne, Australia
 
 
 
