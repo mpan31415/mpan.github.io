@@ -33,8 +33,8 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 - *Nov 2024*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
 - *Oct 2024*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
 - *Sep 2024*: Began my Masters studies in Robotics, Systems and Control at ETH Zürich
-- *Jul 2024*: 🎉 Our work **"A Review of Differentiable Simulators"** was accepted by IEEE Access
-- *May 2024*: 🎉 Our work **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was accepted by IEEE Robotics and Automation Letters (RA-L)
+- *Jun 2024*: 🎉 Our work **"A Review of Differentiable Simulators"** was accepted by IEEE Access
+- *Apr 2024*: 🎉 Our work **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was accepted by IEEE Robotics and Automation Letters (RA-L)
 - *Mar 2024*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Office Assistant Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
 - *Feb 2024*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted as a late-breaking paper at CHI 2023
 - *Dec 2023*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
