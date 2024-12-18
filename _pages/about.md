@@ -29,21 +29,21 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 
 # 🔥 News
 
-- *Dec 2024*: Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted as a full paper at HRI 2025
+- *Dec 2024*: Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted at HRI 2025
 - *Nov 2024*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
 - *Oct 2024*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
 - *Sep 2024*: Began my Masters studies in Robotics, Systems and Control at ETH Zürich
 - *Jun 2024*: 🎉 Our work **"A Review of Differentiable Simulators"** was accepted by IEEE Access
 - *Apr 2024*: 🎉 Our work **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was accepted by IEEE Robotics and Automation Letters (RA-L)
 - *Mar 2024*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Office Assistant Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
-- *Feb 2024*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted as a late-breaking paper at CHI 2023
+- *Feb 2024*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted at CHI 2023
 - *Dec 2023*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
-- *Jun 2023*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted as a full paper at HORA 2023
+- *Jun 2023*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted at HORA 2023
 
 
 # 📝 Publications 
 
-- ``HRI 2025`` [Using Fitts' Law to Benchmark Assisted Human-Robot Performance](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf), **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal | [Project Site](https://sites.google.com/view/autonomyfitts/home) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
+- ``HRI 2025`` [Using Fitts' Law to Benchmark Assisted Human-Robot Performance](https://arxiv.org/abs/2412.05412), **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal | [Project Site](https://sites.google.com/view/autonomyfitts/home) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
 - ``IEEE Access`` [A Review of Differentiable Simulators](https://ieeexplore.ieee.org/abstract/document/10589638), Rhys Newbury, Jack Collins, Kerry He, **Jiahe Pan**, Ingmar Posner, David Howard, Akansel Cosgun | [Project Site](https://rhys-newbury.github.io/projects/DiffSim/) | [PDF](https://mpan31415.github.io/papers/2024/IEEEAccess24_DiffSim.pdf)
 - ``CHI 2024`` [FaceVis: Exploring a Robot's Face for Affective Visualisation Design](https://dl.acm.org/doi/full/10.1145/3613905.3650910), Sarah Schömbs, **Jiahe Pan**, Yan Zhang, Jorge Goncalves, Wafa Johal | [Project Site](https://sites.google.com/view/facevis/home) | [PDF](https://mpan31415.github.io/papers/2024/CHI24_LBR_FaceVis.pdf)
 - ``RA-L 2024`` [Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking](https://ieeexplore.ieee.org/abstract/document/10517390), **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal (presentation at ``IROS 2024``) | [Project Site](https://sites.google.com/view/auto-cl-trust/home) | [PDF](https://mpan31415.github.io/papers/2024/RAL24_CLTrustAuto.pdf)
