@@ -67,16 +67,15 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 - *Mar 2021 - Dec 2023*: BSc. Mechatronics Engineering, The University of Melbourne, Australia
 
 
-# Other Projects 
-
-<video width="640" height="360" controls>
-    <source src="assets/project_gifs/test.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
-![GIF not found](assets/project_gifs/test_gif.gif)
-
-
 <!-- # 💻 Internships
 
 - *2025.06 - 2025.12*, Coming Soon... -->
+
+
+# Fun Projects 
+
+| Project       | Visualization       |
+|-----------------|----------------|
+| **Trajectory optimization** for a rocket docking maneuver using **Sequential Convex Programming**. Implementation follows the paper, [Convex Optimization for Trajectory Generation](https://arxiv.org/pdf/2106.09125)  | ![rocket docking GIF](assets/project_gifs/rocket_docking.gif)  |
+| Planning and control for an **autonomous lane-change maneuver** in a highway driving scenario. Implementation uses the [Intelligent Driver Model](https://mtreiber.de/MicroApplet/IDM.html), motion primitives, and PID control.  | ![lane changing GIF](assets/project_gifs/lane_changing.gif)  |
+| **Visual Odometry pipeline** implemented with SIFT, Harris, Shi-Tomasi, and FAST feature detectors, KLT optical flow tracker for feature tracking, Kalman filter for enhanced camera motion estimation. Tuned and tested on the KITTI, Malaga, and Parking datasets. Screencasts of the VO pipeline running on all datasets can be found on the [YouTube channel](https://www.youtube.com/playlist?list=PLiDPZti1iaQoReVg7OTpJDtQifOGpUsB2). | ![VO pipeline GIF](assets/project_gifs/vo_pipeline.gif)  |
