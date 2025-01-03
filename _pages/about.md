@@ -67,6 +67,15 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 - *Mar 2021 - Dec 2023*: BSc. Mechatronics Engineering, The University of Melbourne, Australia
 
 
+# Other Projects 
+
+<video width="640" height="360" controls>
+    <source src="assets/project_gifs/test.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+![GIF not found](assets/project_gifs/test_gif.gif)
+
 
 <!-- # 💻 Internships
 
