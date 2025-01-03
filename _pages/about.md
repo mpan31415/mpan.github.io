@@ -76,6 +76,6 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 
 | Project       | Visualization       |
 |-----------------|----------------|
-| **Trajectory optimization** for a rocket docking maneuver using **Sequential Convex Programming**. Implementation follows the paper, [Convex Optimization for Trajectory Generation](https://arxiv.org/pdf/2106.09125)  | ![rocket docking GIF](assets/project_gifs/rocket_docking.gif)  |
+| **Trajectory optimization** for a rocket docking maneuver with collision avoidance using **Sequential Convex Programming**. Implementation follows the paper, [Convex Optimization for Trajectory Generation](https://arxiv.org/pdf/2106.09125)  | ![rocket docking GIF](assets/project_gifs/rocket_docking.gif)  |
 | Planning and control for an **autonomous lane-change maneuver** in a highway driving scenario. Implementation uses the [Intelligent Driver Model](https://mtreiber.de/MicroApplet/IDM.html), motion primitives, and PID control.  | ![lane changing GIF](assets/project_gifs/lane_changing.gif)  |
 | **Visual Odometry pipeline** implemented with SIFT, Harris, Shi-Tomasi, and FAST feature detectors, KLT optical flow tracker for feature tracking, Kalman filter for enhanced camera motion estimation. Tuned and tested on the KITTI, Malaga, and Parking datasets. Screencasts of the VO pipeline running on all datasets can be found on the [YouTube channel](https://www.youtube.com/playlist?list=PLiDPZti1iaQoReVg7OTpJDtQifOGpUsB2). | ![VO pipeline GIF](assets/project_gifs/vo_pipeline.gif)  |
