@@ -30,7 +30,7 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 # 🔥 News
 
 - *Jan 2025*: Selected as a student volunteer for HRI 2025 in Melbourne, Australia
-- *Dec 2024*: Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted at HRI 2025
+- *Dec 2024*: 🎉 Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted at HRI 2025
 - *Nov 2024*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
 - *Oct 2024*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
 - *Sep 2024*: Began my Masters studies in Robotics, Systems and Control at ETH Zürich
