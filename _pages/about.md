@@ -29,6 +29,7 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 
 # 🔥 News
 
+- *Jan 2025*: Selected as a student volunteer for HRI 2025 in Melbourne, Australia
 - *Dec 2024*: Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted at HRI 2025
 - *Nov 2024*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
 - *Oct 2024*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
@@ -36,6 +37,7 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 - *Jun 2024*: 🎉 Our work **"A Review of Differentiable Simulators"** was accepted by IEEE Access
 - *Apr 2024*: 🎉 Our work **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was accepted by IEEE Robotics and Automation Letters (RA-L)
 - *Mar 2024*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Office Assistant Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
+- *Mar 2024*: Admitted to Masters programs in Robotics at both ETH Zürich and EPFL
 - *Feb 2024*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted at CHI 2023
 - *Dec 2023*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
 - *Jun 2023*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted at HORA 2023
@@ -78,4 +80,4 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 |-----------------|----------------|
 | **Rocket docking maneuver** with collision avoidance. Trajectory generation and optimization using **Sequential Convex Programming**. Implementation follows the paper, [Convex Optimization for Trajectory Generation](https://arxiv.org/pdf/2106.09125). | ![rocket docking GIF](assets/project_gifs/rocket_docking.gif)  |
 | **Autonomous lane-changing maneuver** in a highway driving scenario. Implementation uses the [Intelligent Driver Model](https://mtreiber.de/MicroApplet/IDM.html), search and planning with motion primitives, and PID control.  | ![lane changing GIF](assets/project_gifs/lane_changing.gif)  |
-| **Monocular Visual Odometry pipeline** for urban driving scenarios. Implementation includes SIFT, Harris, Shi-Tomasi, and FAST feature detectors, KLT optical-flow tracker for feature tracking, Kalman filter for enhanced camera motion estimation. Tuned and tested on the **KITTI**, **Malaga**, and **Parking** datasets, and a custom dataset recorded on the **Polybahn** in Zurich. Screencasts of the VO pipeline running on all datasets can be found on the [YouTube channel](https://www.youtube.com/playlist?list=PLiDPZti1iaQoReVg7OTpJDtQifOGpUsB2). | ![VO pipeline GIF](assets/project_gifs/vo_pipeline.gif)  |
+| **Monocular Visual Odometry pipeline** for urban driving scenarios. Implementation includes SIFT, Harris, Shi-Tomasi, and FAST feature detectors, KLT optical-flow tracker for feature tracking, Kalman filter for enhanced camera motion estimation. Tuned and tested on the **KITTI**, **Malaga**, and **Parking** datasets, and a custom dataset recorded on the **Polybahn** in Zürich. Screencasts of the VO pipeline running on all datasets can be found on the [YouTube channel](https://www.youtube.com/playlist?list=PLiDPZti1iaQoReVg7OTpJDtQifOGpUsB2). | ![VO pipeline GIF](assets/project_gifs/vo_pipeline.gif)  |
