@@ -29,6 +29,8 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 
 # 🔥 News
 
+<div style="max-height: 200px; overflow-y: auto; padding: 10px;">
+
 - *Jan 2025*: 🎉 Our work **"OfficeMate: First Holistic Evaluation of an Office Assistant Robot"** was accepted at HRI 2025
 - *Jan 2025*: 🎉 Our work **"Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations"** was accepted at HRI 2025
 - *Jan 2025*: Selected as a student volunteer for HRI 2025 in Melbourne, Australia
@@ -43,6 +45,61 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 - *Feb 2024*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted at CHI 2023
 - *Dec 2023*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
 - *Jun 2023*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted at HORA 2023
+
+</div>
+
+
+<!-- - *Jan 2025*: 🎉 Our work **"OfficeMate: First Holistic Evaluation of an Office Assistant Robot"** was accepted at HRI 2025
+- *Jan 2025*: 🎉 Our work **"Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations"** was accepted at HRI 2025
+- *Jan 2025*: Selected as a student volunteer for HRI 2025 in Melbourne, Australia
+- *Dec 2024*: 🎉 Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted at HRI 2025
+- *Nov 2024*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
+- *Oct 2024*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
+- *Sep 2024*: Began my Masters studies in Robotics, Systems and Control at ETH Zürich
+- *Jun 2024*: 🎉 Our work **"A Review of Differentiable Simulators"** was accepted by IEEE Access
+- *Apr 2024*: 🎉 Our work **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was accepted by IEEE Robotics and Automation Letters (RA-L)
+- *Mar 2024*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Office Assistant Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
+- *Mar 2024*: Admitted to Masters programs in Robotics at both ETH Zürich and EPFL
+- *Feb 2024*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted at CHI 2023
+- *Dec 2023*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
+- *Jun 2023*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted at HORA 2023 -->
+
+
+  
+  <!-- <details>
+  <summary>2025</summary>
+
+  - *Jan 2025*: 🎉 Our work **"OfficeMate: First Holistic Evaluation of an Office Assistant Robot"** was accepted at HRI 2025
+  - *Jan 2025*: 🎉 Our work **"Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations"** was accepted at HRI 2025
+  - *Jan 2025*: Selected as a student volunteer for HRI 2025 in Melbourne, Australia
+  
+  </details>
+  
+
+  <details>
+  <summary>2024</summary>
+
+  - *Dec 2024*: 🎉 Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted at HRI 2025
+  - *Nov 2024*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
+  - *Oct 2024*: Our RA-L paper **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was presented at IROS 2024
+  - *Sep 2024*: Began my Masters studies in Robotics, Systems and Control at ETH Zürich
+  - *Jun 2024*: 🎉 Our work **"A Review of Differentiable Simulators"** was accepted by IEEE Access
+  - *Apr 2024*: 🎉 Our work **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"** was accepted by IEEE Robotics and Automation Letters (RA-L)
+  - *Mar 2024*: The 'OfficeMate' (Team UniMelb) won **1st-place** in the [Office Assistant Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at HRI 2024
+  - *Mar 2024*: Admitted to Masters programs in Robotics at both ETH Zürich and EPFL
+  - *Feb 2024*: 🎉 Our work **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"** was accepted at CHI 2023
+  
+  </details>
+
+
+  <details>
+  <summary>2023</summary>
+
+  - *Dec 2023*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
+  - *Jun 2023*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted at HORA 2023
+
+  </details> -->
+
 
 
 # 📝 Publications 
