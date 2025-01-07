@@ -29,6 +29,8 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 
 # 🔥 News
 
+- *Jan 2025*: 🎉 Our work **"OfficeMate: First Holistic Evaluation of an Office Assistant Robot"** was accepted at HRI 2025
+- *Jan 2025*: 🎉 Our work **"Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations"** was accepted at HRI 2025
 - *Jan 2025*: Selected as a student volunteer for HRI 2025 in Melbourne, Australia
 - *Dec 2024*: 🎉 Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted at HRI 2025
 - *Nov 2024*: Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
@@ -45,6 +47,8 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 
 # 📝 Publications 
 
+- ``HRI 2025`` [Using Fitts' Law to Benchmark Assisted Human-Robot Performance](https://arxiv.org/abs/2412.05412), **Jiahe Pan**, Sarah Schömbs, Yan Zhang, Ramtin Tabatabaei, Muhammad Bilal, Wafa Johal | [GitHub](https://github.com/yzhang2332/woa\_tiago) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
+- ``HRI 2025`` [Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations](https://arxiv.org/abs/2412.05412), Qiushi Zhou, Antony Chacon, **Jiahe Pan**, Wafa Johal | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
 - ``HRI 2025`` [Using Fitts' Law to Benchmark Assisted Human-Robot Performance](https://arxiv.org/abs/2412.05412), **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal | [Project Site](https://sites.google.com/view/autonomyfitts/home) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
 - ``IEEE Access`` [A Review of Differentiable Simulators](https://ieeexplore.ieee.org/abstract/document/10589638), Rhys Newbury, Jack Collins, Kerry He, **Jiahe Pan**, Ingmar Posner, David Howard, Akansel Cosgun | [Project Site](https://rhys-newbury.github.io/projects/DiffSim/) | [PDF](https://mpan31415.github.io/papers/2024/IEEEAccess24_DiffSim.pdf)
 - ``CHI 2024`` [FaceVis: Exploring a Robot's Face for Affective Visualisation Design](https://dl.acm.org/doi/full/10.1145/3613905.3650910), Sarah Schömbs, **Jiahe Pan**, Yan Zhang, Jorge Goncalves, Wafa Johal | [Project Site](https://sites.google.com/view/facevis/home) | [PDF](https://mpan31415.github.io/papers/2024/CHI24_LBR_FaceVis.pdf)
