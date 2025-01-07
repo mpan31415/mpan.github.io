@@ -30,6 +30,7 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 # 🔥 News
 
 <div style="max-height: 200px; overflow-y: auto; padding: 10px;">
+<pre>
 
 - *Jan 2025*: 🎉 Our work **"OfficeMate: First Holistic Evaluation of an Office Assistant Robot"** was accepted at HRI 2025
 - *Jan 2025*: 🎉 Our work **"Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations"** was accepted at HRI 2025
@@ -46,6 +47,7 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 - *Dec 2023*: Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (First-class Honours)
 - *Jun 2023*: 🎉 Our work **"Variable Grasp Pose and Commitment for Trajectory Optimization"** was accepted at HORA 2023
 
+</pre>
 </div>
 
 
