@@ -47,7 +47,7 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 
 # 📝 Publications 
 
-- ``HRI 2025`` [Using Fitts' Law to Benchmark Assisted Human-Robot Performance](https://arxiv.org/abs/2412.05412), **Jiahe Pan**, Sarah Schömbs, Yan Zhang, Ramtin Tabatabaei, Muhammad Bilal, Wafa Johal | [GitHub](https://github.com/yzhang2332/woa\_tiago) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
+- ``HRI 2025`` [OfficeMate: First Holistic Evaluation of an Office Assistant Robot](https://arxiv.org/abs/2412.05412), **Jiahe Pan**, Sarah Schömbs, Yan Zhang, Ramtin Tabatabaei, Muhammad Bilal, Wafa Johal | [GitHub](https://github.com/yzhang2332/woa_tiago) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
 - ``HRI 2025`` [Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations](https://arxiv.org/abs/2412.05412), Qiushi Zhou, Antony Chacon, **Jiahe Pan**, Wafa Johal | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
 - ``HRI 2025`` [Using Fitts' Law to Benchmark Assisted Human-Robot Performance](https://arxiv.org/abs/2412.05412), **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal | [Project Site](https://sites.google.com/view/autonomyfitts/home) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
 - ``IEEE Access`` [A Review of Differentiable Simulators](https://ieeexplore.ieee.org/abstract/document/10589638), Rhys Newbury, Jack Collins, Kerry He, **Jiahe Pan**, Ingmar Posner, David Howard, Akansel Cosgun | [Project Site](https://rhys-newbury.github.io/projects/DiffSim/) | [PDF](https://mpan31415.github.io/papers/2024/IEEEAccess24_DiffSim.pdf)
