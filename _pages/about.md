@@ -18,18 +18,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Masters student in Robotics, Systems and Control at **ETH Zürich**, tutored by [Prof. Robert Riener](https://sms.hest.ethz.ch/the-group/team/robert-riener.html).
+Masters student in Robotics, Systems and Control at **ETH Zürich**, tutored by [Prof. Robert Riener](https://sms.hest.ethz.ch/the-group/team/robert-riener.html). I am interested in enabling robots to efficiently and robustly interact with people and objects in the world through technical methods from the areas of control and learning. 
+<!-- I plan to conduct research across the [Sensory-Motor Systems Lab](https://sms.hest.ethz.ch/) and the [Robotics Systems Lab](https://rsl.ethz.ch/) at ETH as part of my Masters studies. -->
 
-I am interested in enabling robots to efficiently and robustly interact with people and objects in the world through technical methods from the areas of control and learning. I plan to conduct research across the [Sensory-Motor Systems Lab](https://sms.hest.ethz.ch/) and the [Robotics Systems Lab](https://rsl.ethz.ch/) at ETH as part of my Masters studies.
-
-I graduated from **The University of Melbourne**, Australia with a Bachelor of Science degree in Mechatronics Engineering (First-class Honors). I completed my Bachelor's thesis project under the supervision of [Dr. Jonathan Eden](https://findanexpert.unimelb.edu.au/profile/453579-jonathan-eden), [Dr. Wafa Johal](https://findanexpert.unimelb.edu.au/profile/892823-wafa-johal-benkaouar-johal) and [Prof. Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo), and continued working as a research assistant in the Human-Robot Interaction group focusing on human-robot shared control and teleoperation. I was also previously a research assistant in the Robotics group at **Monash University** working on integrated grasp and trajectory optimization for robotic arms, supervised by [Dr. Akansel Cosgun](https://www.monash.edu/engineering/akanselcosgun) and [Dr. James Saunderson](https://www.monash.edu/engineering/jamessaunderson). 
+I graduated from **The University of Melbourne**, Australia with a Bachelor of Science degree in Mechatronics Engineering (First-class Honors). I completed my Bachelor's thesis project under the supervision of [Dr. Jonathan Eden](https://findanexpert.unimelb.edu.au/profile/453579-jonathan-eden), [Dr. Wafa Johal](https://findanexpert.unimelb.edu.au/profile/892823-wafa-johal-benkaouar-johal) and [Prof. Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo), and continued working as a research assistant focusing on human-robot shared control and teleoperation. I was also previously a research assistant at **Monash University** working on integrated grasp and trajectory optimization for robotic arms, supervised by [Dr. Akansel Cosgun](https://www.monash.edu/engineering/akanselcosgun) and [Dr. James Saunderson](https://www.monash.edu/engineering/jamessaunderson). 
 
 If you are interested in **academic collaboration**, feel free to email me at [michael.pan31415@gmail.com](mailto:michael.pan31415@gmail.com).
 
 
 # 🔥 News
 
-- *Jan 2025*: 🎉 Our work **"OfficeMate: First Holistic Evaluation of an Office Assistant Robot"** was accepted at HRI 2025
+- *Jan 2025*: 🎉 Our work **"OfficeMate: Pilot Evaluation of an Office Assistant Robot"** was accepted at HRI 2025
 - *Jan 2025*: 🎉 Our work **"Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations"** was accepted at HRI 2025
 - *Jan 2025*: Selected as a student volunteer for HRI 2025 in Melbourne, Australia
 - *Dec 2024*: 🎉 Our work **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** was accepted at HRI 2025
@@ -48,8 +47,8 @@ If you are interested in **academic collaboration**, feel free to email me at [m
 
 # 📝 Publications 
 
-- ``HRI 2025`` [OfficeMate: First Holistic Evaluation of an Office Assistant Robot](https://arxiv.org/abs/2412.05412), **Jiahe Pan**, Sarah Schömbs, Yan Zhang, Ramtin Tabatabaei, Muhammad Bilal, Wafa Johal | [GitHub](https://github.com/yzhang2332/woa_tiago) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
-- ``HRI 2025`` [Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations](https://arxiv.org/abs/2412.05412), Qiushi Zhou, Antony Chacon, **Jiahe Pan**, Wafa Johal | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
+- ``HRI 2025`` [OfficeMate: Pilot Evaluation of an Office Assistant Robot](https://arxiv.org/abs/2412.05412), **Jiahe Pan**, Sarah Schömbs, Yan Zhang, Ramtin Tabatabaei, Muhammad Bilal, Wafa Johal | [GitHub](https://github.com/yzhang2332/woa_tiago) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_OfficeMate.pdf)
+- ``HRI 2025`` [Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations](https://arxiv.org/abs/2412.05412), Qiushi Zhou, Antony Chacon, **Jiahe Pan**, Wafa Johal | [GitHub](https://github.com/mpan31415/robot-x-ar) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AR_Teleop.pdf)
 - ``HRI 2025`` [Using Fitts' Law to Benchmark Assisted Human-Robot Performance](https://arxiv.org/abs/2412.05412), **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal | [Project Site](https://sites.google.com/view/autonomyfitts/home) | [PDF](https://mpan31415.github.io/papers/2025/HRI25_AutoFitts.pdf)
 - ``IEEE Access`` [A Review of Differentiable Simulators](https://ieeexplore.ieee.org/abstract/document/10589638), Rhys Newbury, Jack Collins, Kerry He, **Jiahe Pan**, Ingmar Posner, David Howard, Akansel Cosgun | [Project Site](https://rhys-newbury.github.io/projects/DiffSim/) | [PDF](https://mpan31415.github.io/papers/2024/IEEEAccess24_DiffSim.pdf)
 - ``CHI 2024`` [FaceVis: Exploring a Robot's Face for Affective Visualisation Design](https://dl.acm.org/doi/full/10.1145/3613905.3650910), Sarah Schömbs, **Jiahe Pan**, Yan Zhang, Jorge Goncalves, Wafa Johal | [Project Site](https://sites.google.com/view/facevis/home) | [PDF](https://mpan31415.github.io/papers/2024/CHI24_LBR_FaceVis.pdf)
